@@ -1,0 +1,3740 @@
+[
+  {
+    "name": "game_01",
+    "offset": {
+      "bottom": 565,
+      "height": 533,
+      "left": 0,
+      "right": 965,
+      "top": 32,
+      "width": 965,
+      "x": 0,
+      "y": 32
+    },
+    "buttons": [
+      {
+        "box": {
+          "bottom": 139,
+          "height": 48,
+          "left": 762.5,
+          "right": 810.5,
+          "top": 91,
+          "width": 48,
+          "x": 762.5,
+          "y": 91
+        },
+        "cls": "hud-settings-button",
+        "disabled": false,
+        "name": "Открыть настройки"
+      },
+      {
+        "box": {
+          "bottom": 399.734375,
+          "height": 266.5,
+          "left": 349.25,
+          "right": 615.75,
+          "top": 133.234375,
+          "width": 266.5,
+          "x": 349.25,
+          "y": 133.234375
+        },
+        "cls": "cookie-button",
+        "disabled": false,
+        "name": "Испечь печенье"
+      },
+      {
+        "box": {
+          "bottom": 503,
+          "height": 81.203125,
+          "left": 229.8671875,
+          "right": 351.6796875,
+          "top": 421.796875,
+          "width": 121.8125,
+          "x": 229.8671875,
+          "y": 421.796875
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Магазин"
+      },
+      {
+        "box": {
+          "bottom": 503,
+          "height": 81.2109375,
+          "left": 357.6796875,
+          "right": 479.5,
+          "top": 421.7890625,
+          "width": 121.8203125,
+          "x": 357.6796875,
+          "y": 421.7890625
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Улучшения"
+      },
+      {
+        "box": {
+          "bottom": 503,
+          "height": 81.203125,
+          "left": 485.5,
+          "right": 607.3125,
+          "top": 421.796875,
+          "width": 121.8125,
+          "x": 485.5,
+          "y": 421.796875
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Задания"
+      },
+      {
+        "box": {
+          "bottom": 503,
+          "height": 81.2109375,
+          "left": 613.3125,
+          "right": 735.1328125,
+          "top": 421.7890625,
+          "width": 121.8203125,
+          "x": 613.3125,
+          "y": 421.7890625
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Рейтинг"
+      }
+    ]
+  },
+  {
+    "name": "game_02",
+    "offset": {
+      "bottom": 565,
+      "height": 533,
+      "left": 0,
+      "right": 965,
+      "top": 32,
+      "width": 965,
+      "x": 0,
+      "y": 32
+    },
+    "buttons": [
+      {
+        "box": {
+          "bottom": 139,
+          "height": 48,
+          "left": 762.5,
+          "right": 810.5,
+          "top": 91,
+          "width": 48,
+          "x": 762.5,
+          "y": 91
+        },
+        "cls": "hud-settings-button",
+        "disabled": false,
+        "name": "Открыть настройки"
+      },
+      {
+        "box": {
+          "bottom": 399.734375,
+          "height": 266.5,
+          "left": 349.25,
+          "right": 615.75,
+          "top": 133.234375,
+          "width": 266.5,
+          "x": 349.25,
+          "y": 133.234375
+        },
+        "cls": "cookie-button",
+        "disabled": false,
+        "name": "Испечь печенье"
+      },
+      {
+        "box": {
+          "bottom": 503,
+          "height": 81.203125,
+          "left": 229.8671875,
+          "right": 351.6796875,
+          "top": 421.796875,
+          "width": 121.8125,
+          "x": 229.8671875,
+          "y": 421.796875
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Магазин"
+      },
+      {
+        "box": {
+          "bottom": 503,
+          "height": 81.2109375,
+          "left": 357.6796875,
+          "right": 479.5,
+          "top": 421.7890625,
+          "width": 121.8203125,
+          "x": 357.6796875,
+          "y": 421.7890625
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Улучшения"
+      },
+      {
+        "box": {
+          "bottom": 503,
+          "height": 81.203125,
+          "left": 485.5,
+          "right": 607.3125,
+          "top": 421.796875,
+          "width": 121.8125,
+          "x": 485.5,
+          "y": 421.796875
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Задания"
+      },
+      {
+        "box": {
+          "bottom": 503,
+          "height": 81.2109375,
+          "left": 613.3125,
+          "right": 735.1328125,
+          "top": 421.7890625,
+          "width": 121.8203125,
+          "x": 613.3125,
+          "y": 421.7890625
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Рейтинг"
+      }
+    ]
+  },
+  {
+    "name": "game_03",
+    "offset": {
+      "bottom": 565,
+      "height": 533,
+      "left": 0,
+      "right": 965,
+      "top": 32,
+      "width": 965,
+      "x": 0,
+      "y": 32
+    },
+    "buttons": [
+      {
+        "box": {
+          "bottom": 139,
+          "height": 48,
+          "left": 762.5,
+          "right": 810.5,
+          "top": 91,
+          "width": 48,
+          "x": 762.5,
+          "y": 91
+        },
+        "cls": "hud-settings-button",
+        "disabled": false,
+        "name": "Открыть настройки"
+      },
+      {
+        "box": {
+          "bottom": 399.734375,
+          "height": 266.5,
+          "left": 349.25,
+          "right": 615.75,
+          "top": 133.234375,
+          "width": 266.5,
+          "x": 349.25,
+          "y": 133.234375
+        },
+        "cls": "cookie-button",
+        "disabled": false,
+        "name": "Испечь печенье"
+      },
+      {
+        "box": {
+          "bottom": 503,
+          "height": 81.203125,
+          "left": 229.8671875,
+          "right": 351.6796875,
+          "top": 421.796875,
+          "width": 121.8125,
+          "x": 229.8671875,
+          "y": 421.796875
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Магазин"
+      },
+      {
+        "box": {
+          "bottom": 503,
+          "height": 81.2109375,
+          "left": 357.6796875,
+          "right": 479.5,
+          "top": 421.7890625,
+          "width": 121.8203125,
+          "x": 357.6796875,
+          "y": 421.7890625
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Улучшения"
+      },
+      {
+        "box": {
+          "bottom": 503,
+          "height": 81.203125,
+          "left": 485.5,
+          "right": 607.3125,
+          "top": 421.796875,
+          "width": 121.8125,
+          "x": 485.5,
+          "y": 421.796875
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Задания"
+      },
+      {
+        "box": {
+          "bottom": 503,
+          "height": 81.2109375,
+          "left": 613.3125,
+          "right": 735.1328125,
+          "top": 421.7890625,
+          "width": 121.8203125,
+          "x": 613.3125,
+          "y": 421.7890625
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Рейтинг"
+      }
+    ]
+  },
+  {
+    "name": "game_04",
+    "offset": {
+      "bottom": 565,
+      "height": 533,
+      "left": 0,
+      "right": 965,
+      "top": 32,
+      "width": 965,
+      "x": 0,
+      "y": 32
+    },
+    "buttons": [
+      {
+        "box": {
+          "bottom": 139,
+          "height": 48,
+          "left": 762.5,
+          "right": 810.5,
+          "top": 91,
+          "width": 48,
+          "x": 762.5,
+          "y": 91
+        },
+        "cls": "hud-settings-button",
+        "disabled": false,
+        "name": "Открыть настройки"
+      },
+      {
+        "box": {
+          "bottom": 399.734375,
+          "height": 266.5,
+          "left": 349.25,
+          "right": 615.75,
+          "top": 133.234375,
+          "width": 266.5,
+          "x": 349.25,
+          "y": 133.234375
+        },
+        "cls": "cookie-button",
+        "disabled": false,
+        "name": "Испечь печенье"
+      },
+      {
+        "box": {
+          "bottom": 503,
+          "height": 81.203125,
+          "left": 229.8671875,
+          "right": 351.6796875,
+          "top": 421.796875,
+          "width": 121.8125,
+          "x": 229.8671875,
+          "y": 421.796875
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Магазин"
+      },
+      {
+        "box": {
+          "bottom": 503,
+          "height": 81.2109375,
+          "left": 357.6796875,
+          "right": 479.5,
+          "top": 421.7890625,
+          "width": 121.8203125,
+          "x": 357.6796875,
+          "y": 421.7890625
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Улучшения"
+      },
+      {
+        "box": {
+          "bottom": 503,
+          "height": 81.203125,
+          "left": 485.5,
+          "right": 607.3125,
+          "top": 421.796875,
+          "width": 121.8125,
+          "x": 485.5,
+          "y": 421.796875
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Задания"
+      },
+      {
+        "box": {
+          "bottom": 503,
+          "height": 81.2109375,
+          "left": 613.3125,
+          "right": 735.1328125,
+          "top": 421.7890625,
+          "width": 121.8203125,
+          "x": 613.3125,
+          "y": 421.7890625
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Рейтинг"
+      }
+    ]
+  },
+  {
+    "name": "game_05",
+    "offset": {
+      "bottom": 565,
+      "height": 533,
+      "left": 0,
+      "right": 965,
+      "top": 32,
+      "width": 965,
+      "x": 0,
+      "y": 32
+    },
+    "buttons": [
+      {
+        "box": {
+          "bottom": 139,
+          "height": 48,
+          "left": 762.5,
+          "right": 810.5,
+          "top": 91,
+          "width": 48,
+          "x": 762.5,
+          "y": 91
+        },
+        "cls": "hud-settings-button",
+        "disabled": false,
+        "name": "Открыть настройки"
+      },
+      {
+        "box": {
+          "bottom": 399.734375,
+          "height": 266.5,
+          "left": 349.25,
+          "right": 615.75,
+          "top": 133.234375,
+          "width": 266.5,
+          "x": 349.25,
+          "y": 133.234375
+        },
+        "cls": "cookie-button",
+        "disabled": false,
+        "name": "Испечь печенье"
+      },
+      {
+        "box": {
+          "bottom": 503,
+          "height": 81.203125,
+          "left": 229.8671875,
+          "right": 351.6796875,
+          "top": 421.796875,
+          "width": 121.8125,
+          "x": 229.8671875,
+          "y": 421.796875
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Магазин"
+      },
+      {
+        "box": {
+          "bottom": 503,
+          "height": 81.2109375,
+          "left": 357.6796875,
+          "right": 479.5,
+          "top": 421.7890625,
+          "width": 121.8203125,
+          "x": 357.6796875,
+          "y": 421.7890625
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Улучшения"
+      },
+      {
+        "box": {
+          "bottom": 503,
+          "height": 81.203125,
+          "left": 485.5,
+          "right": 607.3125,
+          "top": 421.796875,
+          "width": 121.8125,
+          "x": 485.5,
+          "y": 421.796875
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Задания"
+      },
+      {
+        "box": {
+          "bottom": 503,
+          "height": 81.2109375,
+          "left": 613.3125,
+          "right": 735.1328125,
+          "top": 421.7890625,
+          "width": 121.8203125,
+          "x": 613.3125,
+          "y": 421.7890625
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Рейтинг"
+      }
+    ]
+  },
+  {
+    "name": "game_06",
+    "offset": {
+      "bottom": 565,
+      "height": 533,
+      "left": 0,
+      "right": 965,
+      "top": 32,
+      "width": 965,
+      "x": 0,
+      "y": 32
+    },
+    "buttons": [
+      {
+        "box": {
+          "bottom": 139,
+          "height": 48,
+          "left": 762.5,
+          "right": 810.5,
+          "top": 91,
+          "width": 48,
+          "x": 762.5,
+          "y": 91
+        },
+        "cls": "hud-settings-button",
+        "disabled": false,
+        "name": "Открыть настройки"
+      },
+      {
+        "box": {
+          "bottom": 399.734375,
+          "height": 266.5,
+          "left": 349.25,
+          "right": 615.75,
+          "top": 133.234375,
+          "width": 266.5,
+          "x": 349.25,
+          "y": 133.234375
+        },
+        "cls": "cookie-button",
+        "disabled": false,
+        "name": "Испечь печенье"
+      },
+      {
+        "box": {
+          "bottom": 503,
+          "height": 81.203125,
+          "left": 229.8671875,
+          "right": 351.6796875,
+          "top": 421.796875,
+          "width": 121.8125,
+          "x": 229.8671875,
+          "y": 421.796875
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Магазин"
+      },
+      {
+        "box": {
+          "bottom": 503,
+          "height": 81.2109375,
+          "left": 357.6796875,
+          "right": 479.5,
+          "top": 421.7890625,
+          "width": 121.8203125,
+          "x": 357.6796875,
+          "y": 421.7890625
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Улучшения"
+      },
+      {
+        "box": {
+          "bottom": 503,
+          "height": 81.203125,
+          "left": 485.5,
+          "right": 607.3125,
+          "top": 421.796875,
+          "width": 121.8125,
+          "x": 485.5,
+          "y": 421.796875
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Задания"
+      },
+      {
+        "box": {
+          "bottom": 503,
+          "height": 81.2109375,
+          "left": 613.3125,
+          "right": 735.1328125,
+          "top": 421.7890625,
+          "width": 121.8203125,
+          "x": 613.3125,
+          "y": 421.7890625
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Рейтинг"
+      },
+      {
+        "box": {
+          "bottom": -119.03335571289062,
+          "height": 168,
+          "left": 246.4140625,
+          "right": 414.4140625,
+          "top": -287.0333557128906,
+          "width": 168,
+          "x": 246.4140625,
+          "y": -287.0333557128906
+        },
+        "cls": "falling-object chest",
+        "disabled": false,
+        "name": "Собрать сундук"
+      }
+    ]
+  },
+  {
+    "name": "bonus_01",
+    "offset": {
+      "bottom": 565,
+      "height": 533,
+      "left": 0,
+      "right": 965,
+      "top": 32,
+      "width": 965,
+      "x": 0,
+      "y": 32
+    },
+    "buttons": [
+      {
+        "box": {
+          "bottom": 139,
+          "height": 48,
+          "left": 762.5,
+          "right": 810.5,
+          "top": 91,
+          "width": 48,
+          "x": 762.5,
+          "y": 91
+        },
+        "cls": "hud-settings-button",
+        "disabled": false,
+        "name": "Открыть настройки"
+      },
+      {
+        "box": {
+          "bottom": 399.734375,
+          "height": 266.5,
+          "left": 349.25,
+          "right": 615.75,
+          "top": 133.234375,
+          "width": 266.5,
+          "x": 349.25,
+          "y": 133.234375
+        },
+        "cls": "cookie-button",
+        "disabled": true,
+        "name": "Испечь печенье"
+      },
+      {
+        "box": {
+          "bottom": 503,
+          "height": 81.203125,
+          "left": 229.8671875,
+          "right": 351.6796875,
+          "top": 421.796875,
+          "width": 121.8125,
+          "x": 229.8671875,
+          "y": 421.796875
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Магазин"
+      },
+      {
+        "box": {
+          "bottom": 503,
+          "height": 81.2109375,
+          "left": 357.6796875,
+          "right": 479.5,
+          "top": 421.7890625,
+          "width": 121.8203125,
+          "x": 357.6796875,
+          "y": 421.7890625
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Улучшения"
+      },
+      {
+        "box": {
+          "bottom": 503,
+          "height": 81.203125,
+          "left": 485.5,
+          "right": 607.3125,
+          "top": 421.796875,
+          "width": 121.8125,
+          "x": 485.5,
+          "y": 421.796875
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Задания"
+      },
+      {
+        "box": {
+          "bottom": 503,
+          "height": 81.2109375,
+          "left": 613.3125,
+          "right": 735.1328125,
+          "top": 421.7890625,
+          "width": 121.8203125,
+          "x": 613.3125,
+          "y": 421.7890625
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Рейтинг"
+      },
+      {
+        "box": {
+          "bottom": 406.3125,
+          "height": 44,
+          "left": 368.234375,
+          "right": 596.7578125,
+          "top": 362.3125,
+          "width": 228.5234375,
+          "x": 368.234375,
+          "y": 362.3125
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Открыть сундук"
+      }
+    ]
+  },
+  {
+    "name": "bonus_02",
+    "offset": {
+      "bottom": 565,
+      "height": 533,
+      "left": 0,
+      "right": 965,
+      "top": 32,
+      "width": 965,
+      "x": 0,
+      "y": 32
+    },
+    "buttons": [
+      {
+        "box": {
+          "bottom": 139,
+          "height": 48,
+          "left": 762.5,
+          "right": 810.5,
+          "top": 91,
+          "width": 48,
+          "x": 762.5,
+          "y": 91
+        },
+        "cls": "hud-settings-button",
+        "disabled": false,
+        "name": "Открыть настройки"
+      },
+      {
+        "box": {
+          "bottom": 399.734375,
+          "height": 266.5,
+          "left": 349.25,
+          "right": 615.75,
+          "top": 133.234375,
+          "width": 266.5,
+          "x": 349.25,
+          "y": 133.234375
+        },
+        "cls": "cookie-button",
+        "disabled": true,
+        "name": "Испечь печенье"
+      },
+      {
+        "box": {
+          "bottom": 503,
+          "height": 81.203125,
+          "left": 229.8671875,
+          "right": 351.6796875,
+          "top": 421.796875,
+          "width": 121.8125,
+          "x": 229.8671875,
+          "y": 421.796875
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Магазин"
+      },
+      {
+        "box": {
+          "bottom": 503,
+          "height": 81.2109375,
+          "left": 357.6796875,
+          "right": 479.5,
+          "top": 421.7890625,
+          "width": 121.8203125,
+          "x": 357.6796875,
+          "y": 421.7890625
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Улучшения"
+      },
+      {
+        "box": {
+          "bottom": 503,
+          "height": 81.203125,
+          "left": 485.5,
+          "right": 607.3125,
+          "top": 421.796875,
+          "width": 121.8125,
+          "x": 485.5,
+          "y": 421.796875
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Задания"
+      },
+      {
+        "box": {
+          "bottom": 503,
+          "height": 81.2109375,
+          "left": 613.3125,
+          "right": 735.1328125,
+          "top": 421.7890625,
+          "width": 121.8203125,
+          "x": 613.3125,
+          "y": 421.7890625
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Рейтинг"
+      },
+      {
+        "box": {
+          "bottom": 406.3125,
+          "height": 44,
+          "left": 368.234375,
+          "right": 596.7578125,
+          "top": 362.3125,
+          "width": 228.5234375,
+          "x": 368.234375,
+          "y": 362.3125
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Открыть сундук"
+      }
+    ]
+  },
+  {
+    "name": "bonus_03",
+    "offset": {
+      "bottom": 565,
+      "height": 533,
+      "left": 0,
+      "right": 965,
+      "top": 32,
+      "width": 965,
+      "x": 0,
+      "y": 32
+    },
+    "buttons": [
+      {
+        "box": {
+          "bottom": 139,
+          "height": 48,
+          "left": 762.5,
+          "right": 810.5,
+          "top": 91,
+          "width": 48,
+          "x": 762.5,
+          "y": 91
+        },
+        "cls": "hud-settings-button",
+        "disabled": false,
+        "name": "Открыть настройки"
+      },
+      {
+        "box": {
+          "bottom": 399.734375,
+          "height": 266.5,
+          "left": 349.25,
+          "right": 615.75,
+          "top": 133.234375,
+          "width": 266.5,
+          "x": 349.25,
+          "y": 133.234375
+        },
+        "cls": "cookie-button",
+        "disabled": true,
+        "name": "Испечь печенье"
+      },
+      {
+        "box": {
+          "bottom": 503,
+          "height": 81.203125,
+          "left": 229.8671875,
+          "right": 351.6796875,
+          "top": 421.796875,
+          "width": 121.8125,
+          "x": 229.8671875,
+          "y": 421.796875
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Магазин"
+      },
+      {
+        "box": {
+          "bottom": 503,
+          "height": 81.2109375,
+          "left": 357.6796875,
+          "right": 479.5,
+          "top": 421.7890625,
+          "width": 121.8203125,
+          "x": 357.6796875,
+          "y": 421.7890625
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Улучшения"
+      },
+      {
+        "box": {
+          "bottom": 503,
+          "height": 81.203125,
+          "left": 485.5,
+          "right": 607.3125,
+          "top": 421.796875,
+          "width": 121.8125,
+          "x": 485.5,
+          "y": 421.796875
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Задания"
+      },
+      {
+        "box": {
+          "bottom": 503,
+          "height": 81.2109375,
+          "left": 613.3125,
+          "right": 735.1328125,
+          "top": 421.7890625,
+          "width": 121.8203125,
+          "x": 613.3125,
+          "y": 421.7890625
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Рейтинг"
+      },
+      {
+        "box": {
+          "bottom": 423.8515625,
+          "height": 44,
+          "left": 368.234375,
+          "right": 596.7578125,
+          "top": 379.8515625,
+          "width": 228.5234375,
+          "x": 368.234375,
+          "y": 379.8515625
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Открыть сундук"
+      }
+    ]
+  },
+  {
+    "name": "ad_02",
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "width": 1280,
+      "height": 720
+    },
+    "buttons": [
+      {
+        "name": "Закрыть рекламу",
+        "cls": "ad-close",
+        "box": {
+          "bottom": 84,
+          "height": 48,
+          "left": 1128,
+          "right": 1176,
+          "top": 36,
+          "width": 48,
+          "x": 1128,
+          "y": 36
+        },
+        "disabled": false
+      }
+    ]
+  },
+  {
+    "name": "ad_03",
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "width": 1280,
+      "height": 720
+    },
+    "buttons": [
+      {
+        "name": "Закрыть рекламу",
+        "cls": "ad-close",
+        "box": {
+          "bottom": 84,
+          "height": 48,
+          "left": 1128,
+          "right": 1176,
+          "top": 36,
+          "width": 48,
+          "x": 1128,
+          "y": 36
+        },
+        "disabled": false
+      }
+    ]
+  },
+  {
+    "name": "ad_04",
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "width": 1280,
+      "height": 720
+    },
+    "buttons": [
+      {
+        "name": "Закрыть рекламу",
+        "cls": "ad-close",
+        "box": {
+          "bottom": 84,
+          "height": 48,
+          "left": 1128,
+          "right": 1176,
+          "top": 36,
+          "width": 48,
+          "x": 1128,
+          "y": 36
+        },
+        "disabled": false
+      }
+    ]
+  },
+  {
+    "name": "shop_01",
+    "offset": {
+      "bottom": 613,
+      "height": 581,
+      "left": 0,
+      "right": 965,
+      "top": 32,
+      "width": 965,
+      "x": 0,
+      "y": 32
+    },
+    "buttons": [
+      {
+        "box": {
+          "bottom": 139,
+          "height": 48,
+          "left": 762.5,
+          "right": 810.5,
+          "top": 91,
+          "width": 48,
+          "x": 762.5,
+          "y": 91
+        },
+        "cls": "hud-settings-button",
+        "disabled": false,
+        "name": "Открыть настройки"
+      },
+      {
+        "box": {
+          "bottom": 447.9296875,
+          "height": 280,
+          "left": 342.5,
+          "right": 622.5,
+          "top": 167.9296875,
+          "width": 280,
+          "x": 342.5,
+          "y": 167.9296875
+        },
+        "cls": "cookie-button",
+        "disabled": true,
+        "name": "Испечь печенье"
+      },
+      {
+        "box": {
+          "bottom": 581,
+          "height": 581,
+          "left": 0,
+          "right": 965,
+          "top": 0,
+          "width": 965,
+          "x": 0,
+          "y": 0
+        },
+        "cls": "modal-backdrop-close panel-backdrop-close",
+        "disabled": false,
+        "name": "Закрыть"
+      },
+      {
+        "box": {
+          "bottom": 200,
+          "height": 46,
+          "left": 854.5,
+          "right": 900.5,
+          "top": 154,
+          "width": 46,
+          "x": 854.5,
+          "y": 154
+        },
+        "cls": "panel-header-close",
+        "disabled": false,
+        "name": "Закрыть"
+      },
+      {
+        "box": {
+          "bottom": 381,
+          "height": 43,
+          "left": 191.5,
+          "right": 871.5,
+          "top": 338,
+          "width": 680,
+          "x": 191.5,
+          "y": 338
+        },
+        "cls": "shop-ad-offer-watch",
+        "disabled": false,
+        "name": "Смотреть рекламу и получить 6 Авто-кликер"
+      },
+      {
+        "box": {
+          "bottom": 525,
+          "height": 44,
+          "left": 609.8671875,
+          "right": 880.5,
+          "top": 481,
+          "width": 270.6328125,
+          "x": 609.8671875,
+          "y": 481
+        },
+        "cls": "building-price",
+        "disabled": false,
+        "name": "Авто-кликер: 9"
+      },
+      {
+        "box": {
+          "bottom": 655,
+          "height": 44,
+          "left": 609.8671875,
+          "right": 880.5,
+          "top": 611,
+          "width": 270.6328125,
+          "x": 609.8671875,
+          "y": 611
+        },
+        "cls": "building-price",
+        "disabled": false,
+        "name": "Дедушка: 120"
+      },
+      {
+        "box": {
+          "bottom": 785,
+          "height": 44,
+          "left": 609.8671875,
+          "right": 880.5,
+          "top": 741,
+          "width": 270.6328125,
+          "x": 609.8671875,
+          "y": 741
+        },
+        "cls": "building-price",
+        "disabled": true,
+        "name": "Ферма: 1 270"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 84.45123291015625,
+          "left": 227.43093872070312,
+          "right": 354.1159362792969,
+          "top": 466.54876708984375,
+          "width": 126.68499755859376,
+          "x": 227.43093872070312,
+          "y": 466.54876708984375
+        },
+        "cls": "active",
+        "disabled": false,
+        "name": "Магазин"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 81.2109375,
+          "left": 357.6796875,
+          "right": 479.5,
+          "top": 469.7890625,
+          "width": 121.8203125,
+          "x": 357.6796875,
+          "y": 469.7890625
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Улучшения"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 81.203125,
+          "left": 485.5,
+          "right": 607.3125,
+          "top": 469.796875,
+          "width": 121.8125,
+          "x": 485.5,
+          "y": 469.796875
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Задания"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 81.2109375,
+          "left": 613.3125,
+          "right": 735.1328125,
+          "top": 469.7890625,
+          "width": 121.8203125,
+          "x": 613.3125,
+          "y": 469.7890625
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Рейтинг"
+      }
+    ]
+  },
+  {
+    "name": "shop_02",
+    "offset": {
+      "bottom": 613,
+      "height": 581,
+      "left": 0,
+      "right": 965,
+      "top": 32,
+      "width": 965,
+      "x": 0,
+      "y": 32
+    },
+    "buttons": [
+      {
+        "box": {
+          "bottom": 139,
+          "height": 48,
+          "left": 762.5,
+          "right": 810.5,
+          "top": 91,
+          "width": 48,
+          "x": 762.5,
+          "y": 91
+        },
+        "cls": "hud-settings-button",
+        "disabled": false,
+        "name": "Открыть настройки"
+      },
+      {
+        "box": {
+          "bottom": 447.9296875,
+          "height": 280,
+          "left": 342.5,
+          "right": 622.5,
+          "top": 167.9296875,
+          "width": 280,
+          "x": 342.5,
+          "y": 167.9296875
+        },
+        "cls": "cookie-button",
+        "disabled": true,
+        "name": "Испечь печенье"
+      },
+      {
+        "box": {
+          "bottom": 581,
+          "height": 581,
+          "left": 0,
+          "right": 965,
+          "top": 0,
+          "width": 965,
+          "x": 0,
+          "y": 0
+        },
+        "cls": "modal-backdrop-close panel-backdrop-close",
+        "disabled": false,
+        "name": "Закрыть"
+      },
+      {
+        "box": {
+          "bottom": 200,
+          "height": 46,
+          "left": 854.5,
+          "right": 900.5,
+          "top": 154,
+          "width": 46,
+          "x": 854.5,
+          "y": 154
+        },
+        "cls": "panel-header-close",
+        "disabled": false,
+        "name": "Закрыть"
+      },
+      {
+        "box": {
+          "bottom": 182.5,
+          "height": 43,
+          "left": 191.5,
+          "right": 871.5,
+          "top": 139.5,
+          "width": 680,
+          "x": 191.5,
+          "y": 139.5
+        },
+        "cls": "shop-ad-offer-watch",
+        "disabled": false,
+        "name": "Смотреть рекламу и получить 6 Авто-кликер"
+      },
+      {
+        "box": {
+          "bottom": 326.5,
+          "height": 44,
+          "left": 609.8671875,
+          "right": 880.5,
+          "top": 282.5,
+          "width": 270.6328125,
+          "x": 609.8671875,
+          "y": 282.5
+        },
+        "cls": "building-price",
+        "disabled": false,
+        "name": "Авто-кликер: 10"
+      },
+      {
+        "box": {
+          "bottom": 456.5,
+          "height": 44,
+          "left": 609.8671875,
+          "right": 880.5,
+          "top": 412.5,
+          "width": 270.6328125,
+          "x": 609.8671875,
+          "y": 412.5
+        },
+        "cls": "building-price",
+        "disabled": false,
+        "name": "Дедушка: 120"
+      },
+      {
+        "box": {
+          "bottom": 586.5,
+          "height": 44,
+          "left": 609.8671875,
+          "right": 880.5,
+          "top": 542.5,
+          "width": 270.6328125,
+          "x": 609.8671875,
+          "y": 542.5
+        },
+        "cls": "building-price",
+        "disabled": true,
+        "name": "Ферма: 1 270"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 84.45123291015625,
+          "left": 227.43093872070312,
+          "right": 354.1159362792969,
+          "top": 466.54876708984375,
+          "width": 126.68499755859376,
+          "x": 227.43093872070312,
+          "y": 466.54876708984375
+        },
+        "cls": "active",
+        "disabled": false,
+        "name": "Магазин"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 81.2109375,
+          "left": 357.6796875,
+          "right": 479.5,
+          "top": 469.7890625,
+          "width": 121.8203125,
+          "x": 357.6796875,
+          "y": 469.7890625
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Улучшения"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 81.203125,
+          "left": 485.5,
+          "right": 607.3125,
+          "top": 469.796875,
+          "width": 121.8125,
+          "x": 485.5,
+          "y": 469.796875
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Задания"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 81.2109375,
+          "left": 613.3125,
+          "right": 735.1328125,
+          "top": 469.7890625,
+          "width": 121.8203125,
+          "x": 613.3125,
+          "y": 469.7890625
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Рейтинг"
+      }
+    ]
+  },
+  {
+    "name": "shop_03",
+    "offset": {
+      "bottom": 613,
+      "height": 581,
+      "left": 0,
+      "right": 965,
+      "top": 32,
+      "width": 965,
+      "x": 0,
+      "y": 32
+    },
+    "buttons": [
+      {
+        "box": {
+          "bottom": 139,
+          "height": 48,
+          "left": 762.5,
+          "right": 810.5,
+          "top": 91,
+          "width": 48,
+          "x": 762.5,
+          "y": 91
+        },
+        "cls": "hud-settings-button",
+        "disabled": false,
+        "name": "Открыть настройки"
+      },
+      {
+        "box": {
+          "bottom": 447.9296875,
+          "height": 280,
+          "left": 342.5,
+          "right": 622.5,
+          "top": 167.9296875,
+          "width": 280,
+          "x": 342.5,
+          "y": 167.9296875
+        },
+        "cls": "cookie-button",
+        "disabled": true,
+        "name": "Испечь печенье"
+      },
+      {
+        "box": {
+          "bottom": 581,
+          "height": 581,
+          "left": 0,
+          "right": 965,
+          "top": 0,
+          "width": 965,
+          "x": 0,
+          "y": 0
+        },
+        "cls": "modal-backdrop-close panel-backdrop-close",
+        "disabled": false,
+        "name": "Закрыть"
+      },
+      {
+        "box": {
+          "bottom": 200,
+          "height": 46,
+          "left": 854.5,
+          "right": 900.5,
+          "top": 154,
+          "width": 46,
+          "x": 854.5,
+          "y": 154
+        },
+        "cls": "panel-header-close",
+        "disabled": false,
+        "name": "Закрыть"
+      },
+      {
+        "box": {
+          "bottom": 182.5,
+          "height": 43,
+          "left": 191.5,
+          "right": 871.5,
+          "top": 139.5,
+          "width": 680,
+          "x": 191.5,
+          "y": 139.5
+        },
+        "cls": "shop-ad-offer-watch",
+        "disabled": false,
+        "name": "Смотреть рекламу и получить 6 Авто-кликер"
+      },
+      {
+        "box": {
+          "bottom": 326.5,
+          "height": 44,
+          "left": 609.8671875,
+          "right": 880.5,
+          "top": 282.5,
+          "width": 270.6328125,
+          "x": 609.8671875,
+          "y": 282.5
+        },
+        "cls": "building-price",
+        "disabled": false,
+        "name": "Авто-кликер: 11.1"
+      },
+      {
+        "box": {
+          "bottom": 456.5,
+          "height": 44,
+          "left": 609.8671875,
+          "right": 880.5,
+          "top": 412.5,
+          "width": 270.6328125,
+          "x": 609.8671875,
+          "y": 412.5
+        },
+        "cls": "building-price",
+        "disabled": false,
+        "name": "Дедушка: 120"
+      },
+      {
+        "box": {
+          "bottom": 586.5,
+          "height": 44,
+          "left": 609.8671875,
+          "right": 880.5,
+          "top": 542.5,
+          "width": 270.6328125,
+          "x": 609.8671875,
+          "y": 542.5
+        },
+        "cls": "building-price",
+        "disabled": true,
+        "name": "Ферма: 1 270"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 84.45123291015625,
+          "left": 227.43093872070312,
+          "right": 354.1159362792969,
+          "top": 466.54876708984375,
+          "width": 126.68499755859376,
+          "x": 227.43093872070312,
+          "y": 466.54876708984375
+        },
+        "cls": "active",
+        "disabled": false,
+        "name": "Магазин"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 81.2109375,
+          "left": 357.6796875,
+          "right": 479.5,
+          "top": 469.7890625,
+          "width": 121.8203125,
+          "x": 357.6796875,
+          "y": 469.7890625
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Улучшения"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 81.203125,
+          "left": 485.5,
+          "right": 607.3125,
+          "top": 469.796875,
+          "width": 121.8125,
+          "x": 485.5,
+          "y": 469.796875
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Задания"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 81.2109375,
+          "left": 613.3125,
+          "right": 735.1328125,
+          "top": 469.7890625,
+          "width": 121.8203125,
+          "x": 613.3125,
+          "y": 469.7890625
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Рейтинг"
+      }
+    ]
+  },
+  {
+    "name": "shop_04",
+    "offset": {
+      "bottom": 613,
+      "height": 581,
+      "left": 0,
+      "right": 965,
+      "top": 32,
+      "width": 965,
+      "x": 0,
+      "y": 32
+    },
+    "buttons": [
+      {
+        "box": {
+          "bottom": 139,
+          "height": 48,
+          "left": 762.5,
+          "right": 810.5,
+          "top": 91,
+          "width": 48,
+          "x": 762.5,
+          "y": 91
+        },
+        "cls": "hud-settings-button",
+        "disabled": false,
+        "name": "Открыть настройки"
+      },
+      {
+        "box": {
+          "bottom": 447.9296875,
+          "height": 280,
+          "left": 342.5,
+          "right": 622.5,
+          "top": 167.9296875,
+          "width": 280,
+          "x": 342.5,
+          "y": 167.9296875
+        },
+        "cls": "cookie-button",
+        "disabled": true,
+        "name": "Испечь печенье"
+      },
+      {
+        "box": {
+          "bottom": 581,
+          "height": 581,
+          "left": 0,
+          "right": 965,
+          "top": 0,
+          "width": 965,
+          "x": 0,
+          "y": 0
+        },
+        "cls": "modal-backdrop-close panel-backdrop-close",
+        "disabled": false,
+        "name": "Закрыть"
+      },
+      {
+        "box": {
+          "bottom": 200,
+          "height": 46,
+          "left": 854.5,
+          "right": 900.5,
+          "top": 154,
+          "width": 46,
+          "x": 854.5,
+          "y": 154
+        },
+        "cls": "panel-header-close",
+        "disabled": false,
+        "name": "Закрыть"
+      },
+      {
+        "box": {
+          "bottom": 182.5,
+          "height": 43,
+          "left": 191.5,
+          "right": 871.5,
+          "top": 139.5,
+          "width": 680,
+          "x": 191.5,
+          "y": 139.5
+        },
+        "cls": "shop-ad-offer-watch",
+        "disabled": false,
+        "name": "Смотреть рекламу и получить 6 Авто-кликер"
+      },
+      {
+        "box": {
+          "bottom": 326.5,
+          "height": 44,
+          "left": 609.8671875,
+          "right": 880.5,
+          "top": 282.5,
+          "width": 270.6328125,
+          "x": 609.8671875,
+          "y": 282.5
+        },
+        "cls": "building-price",
+        "disabled": false,
+        "name": "Авто-кликер: 12.3"
+      },
+      {
+        "box": {
+          "bottom": 456.5,
+          "height": 44,
+          "left": 609.8671875,
+          "right": 880.5,
+          "top": 412.5,
+          "width": 270.6328125,
+          "x": 609.8671875,
+          "y": 412.5
+        },
+        "cls": "building-price",
+        "disabled": false,
+        "name": "Дедушка: 120"
+      },
+      {
+        "box": {
+          "bottom": 586.5,
+          "height": 44,
+          "left": 609.8671875,
+          "right": 880.5,
+          "top": 542.5,
+          "width": 270.6328125,
+          "x": 609.8671875,
+          "y": 542.5
+        },
+        "cls": "building-price",
+        "disabled": true,
+        "name": "Ферма: 1 270"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 84.45123291015625,
+          "left": 227.43093872070312,
+          "right": 354.1159362792969,
+          "top": 466.54876708984375,
+          "width": 126.68499755859376,
+          "x": 227.43093872070312,
+          "y": 466.54876708984375
+        },
+        "cls": "active",
+        "disabled": false,
+        "name": "Магазин"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 81.2109375,
+          "left": 357.6796875,
+          "right": 479.5,
+          "top": 469.7890625,
+          "width": 121.8203125,
+          "x": 357.6796875,
+          "y": 469.7890625
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Улучшения"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 81.203125,
+          "left": 485.5,
+          "right": 607.3125,
+          "top": 469.796875,
+          "width": 121.8125,
+          "x": 485.5,
+          "y": 469.796875
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Задания"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 81.2109375,
+          "left": 613.3125,
+          "right": 735.1328125,
+          "top": 469.7890625,
+          "width": 121.8203125,
+          "x": 613.3125,
+          "y": 469.7890625
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Рейтинг"
+      }
+    ]
+  },
+  {
+    "name": "shop_05",
+    "offset": {
+      "bottom": 613,
+      "height": 581,
+      "left": 0,
+      "right": 965,
+      "top": 32,
+      "width": 965,
+      "x": 0,
+      "y": 32
+    },
+    "buttons": [
+      {
+        "box": {
+          "bottom": 139,
+          "height": 48,
+          "left": 762.5,
+          "right": 810.5,
+          "top": 91,
+          "width": 48,
+          "x": 762.5,
+          "y": 91
+        },
+        "cls": "hud-settings-button",
+        "disabled": false,
+        "name": "Открыть настройки"
+      },
+      {
+        "box": {
+          "bottom": 447.9296875,
+          "height": 280,
+          "left": 342.5,
+          "right": 622.5,
+          "top": 167.9296875,
+          "width": 280,
+          "x": 342.5,
+          "y": 167.9296875
+        },
+        "cls": "cookie-button",
+        "disabled": true,
+        "name": "Испечь печенье"
+      },
+      {
+        "box": {
+          "bottom": 581,
+          "height": 581,
+          "left": 0,
+          "right": 965,
+          "top": 0,
+          "width": 965,
+          "x": 0,
+          "y": 0
+        },
+        "cls": "modal-backdrop-close panel-backdrop-close",
+        "disabled": false,
+        "name": "Закрыть"
+      },
+      {
+        "box": {
+          "bottom": 200,
+          "height": 46,
+          "left": 854.5,
+          "right": 900.5,
+          "top": 154,
+          "width": 46,
+          "x": 854.5,
+          "y": 154
+        },
+        "cls": "panel-header-close",
+        "disabled": false,
+        "name": "Закрыть"
+      },
+      {
+        "box": {
+          "bottom": 182.5,
+          "height": 43,
+          "left": 191.5,
+          "right": 871.5,
+          "top": 139.5,
+          "width": 680,
+          "x": 191.5,
+          "y": 139.5
+        },
+        "cls": "shop-ad-offer-watch",
+        "disabled": false,
+        "name": "Смотреть рекламу и получить 6 Авто-кликер"
+      },
+      {
+        "box": {
+          "bottom": 326.5,
+          "height": 44,
+          "left": 609.8671875,
+          "right": 880.5,
+          "top": 282.5,
+          "width": 270.6328125,
+          "x": 609.8671875,
+          "y": 282.5
+        },
+        "cls": "building-price",
+        "disabled": false,
+        "name": "Авто-кликер: 13.7"
+      },
+      {
+        "box": {
+          "bottom": 456.5,
+          "height": 44,
+          "left": 609.8671875,
+          "right": 880.5,
+          "top": 412.5,
+          "width": 270.6328125,
+          "x": 609.8671875,
+          "y": 412.5
+        },
+        "cls": "building-price",
+        "disabled": false,
+        "name": "Дедушка: 120"
+      },
+      {
+        "box": {
+          "bottom": 586.5,
+          "height": 44,
+          "left": 609.8671875,
+          "right": 880.5,
+          "top": 542.5,
+          "width": 270.6328125,
+          "x": 609.8671875,
+          "y": 542.5
+        },
+        "cls": "building-price",
+        "disabled": true,
+        "name": "Ферма: 1 270"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 84.45123291015625,
+          "left": 227.43093872070312,
+          "right": 354.1159362792969,
+          "top": 466.54876708984375,
+          "width": 126.68499755859376,
+          "x": 227.43093872070312,
+          "y": 466.54876708984375
+        },
+        "cls": "active",
+        "disabled": false,
+        "name": "Магазин"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 81.2109375,
+          "left": 357.6796875,
+          "right": 479.5,
+          "top": 469.7890625,
+          "width": 121.8203125,
+          "x": 357.6796875,
+          "y": 469.7890625
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Улучшения"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 81.203125,
+          "left": 485.5,
+          "right": 607.3125,
+          "top": 469.796875,
+          "width": 121.8125,
+          "x": 485.5,
+          "y": 469.796875
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Задания"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 81.2109375,
+          "left": 613.3125,
+          "right": 735.1328125,
+          "top": 469.7890625,
+          "width": 121.8203125,
+          "x": 613.3125,
+          "y": 469.7890625
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Рейтинг"
+      }
+    ]
+  },
+  {
+    "name": "shop_06",
+    "offset": {
+      "bottom": 613,
+      "height": 581,
+      "left": 0,
+      "right": 965,
+      "top": 32,
+      "width": 965,
+      "x": 0,
+      "y": 32
+    },
+    "buttons": [
+      {
+        "box": {
+          "bottom": 139,
+          "height": 48,
+          "left": 762.5,
+          "right": 810.5,
+          "top": 91,
+          "width": 48,
+          "x": 762.5,
+          "y": 91
+        },
+        "cls": "hud-settings-button",
+        "disabled": false,
+        "name": "Открыть настройки"
+      },
+      {
+        "box": {
+          "bottom": 447.9296875,
+          "height": 280,
+          "left": 342.5,
+          "right": 622.5,
+          "top": 167.9296875,
+          "width": 280,
+          "x": 342.5,
+          "y": 167.9296875
+        },
+        "cls": "cookie-button",
+        "disabled": true,
+        "name": "Испечь печенье"
+      },
+      {
+        "box": {
+          "bottom": 581,
+          "height": 581,
+          "left": 0,
+          "right": 965,
+          "top": 0,
+          "width": 965,
+          "x": 0,
+          "y": 0
+        },
+        "cls": "modal-backdrop-close panel-backdrop-close",
+        "disabled": false,
+        "name": "Закрыть"
+      },
+      {
+        "box": {
+          "bottom": 200,
+          "height": 46,
+          "left": 854.5,
+          "right": 900.5,
+          "top": 154,
+          "width": 46,
+          "x": 854.5,
+          "y": 154
+        },
+        "cls": "panel-header-close",
+        "disabled": false,
+        "name": "Закрыть"
+      },
+      {
+        "box": {
+          "bottom": 182.5,
+          "height": 43,
+          "left": 191.5,
+          "right": 871.5,
+          "top": 139.5,
+          "width": 680,
+          "x": 191.5,
+          "y": 139.5
+        },
+        "cls": "shop-ad-offer-watch",
+        "disabled": false,
+        "name": "Смотреть рекламу и получить 6 Авто-кликер"
+      },
+      {
+        "box": {
+          "bottom": 326.5,
+          "height": 44,
+          "left": 609.8671875,
+          "right": 880.5,
+          "top": 282.5,
+          "width": 270.6328125,
+          "x": 609.8671875,
+          "y": 282.5
+        },
+        "cls": "building-price",
+        "disabled": false,
+        "name": "Авто-кликер: 15.2"
+      },
+      {
+        "box": {
+          "bottom": 456.5,
+          "height": 44,
+          "left": 609.8671875,
+          "right": 880.5,
+          "top": 412.5,
+          "width": 270.6328125,
+          "x": 609.8671875,
+          "y": 412.5
+        },
+        "cls": "building-price",
+        "disabled": false,
+        "name": "Дедушка: 120"
+      },
+      {
+        "box": {
+          "bottom": 586.5,
+          "height": 44,
+          "left": 609.8671875,
+          "right": 880.5,
+          "top": 542.5,
+          "width": 270.6328125,
+          "x": 609.8671875,
+          "y": 542.5
+        },
+        "cls": "building-price",
+        "disabled": true,
+        "name": "Ферма: 1 270"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 84.45123291015625,
+          "left": 227.43093872070312,
+          "right": 354.1159362792969,
+          "top": 466.54876708984375,
+          "width": 126.68499755859376,
+          "x": 227.43093872070312,
+          "y": 466.54876708984375
+        },
+        "cls": "active",
+        "disabled": false,
+        "name": "Магазин"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 81.2109375,
+          "left": 357.6796875,
+          "right": 479.5,
+          "top": 469.7890625,
+          "width": 121.8203125,
+          "x": 357.6796875,
+          "y": 469.7890625
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Улучшения"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 81.203125,
+          "left": 485.5,
+          "right": 607.3125,
+          "top": 469.796875,
+          "width": 121.8125,
+          "x": 485.5,
+          "y": 469.796875
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Задания"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 81.2109375,
+          "left": 613.3125,
+          "right": 735.1328125,
+          "top": 469.7890625,
+          "width": 121.8203125,
+          "x": 613.3125,
+          "y": 469.7890625
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Рейтинг"
+      }
+    ]
+  },
+  {
+    "name": "shop_07",
+    "offset": {
+      "bottom": 613,
+      "height": 581,
+      "left": 0,
+      "right": 965,
+      "top": 32,
+      "width": 965,
+      "x": 0,
+      "y": 32
+    },
+    "buttons": [
+      {
+        "box": {
+          "bottom": 139,
+          "height": 48,
+          "left": 762.5,
+          "right": 810.5,
+          "top": 91,
+          "width": 48,
+          "x": 762.5,
+          "y": 91
+        },
+        "cls": "hud-settings-button",
+        "disabled": false,
+        "name": "Открыть настройки"
+      },
+      {
+        "box": {
+          "bottom": 447.9296875,
+          "height": 280,
+          "left": 342.5,
+          "right": 622.5,
+          "top": 167.9296875,
+          "width": 280,
+          "x": 342.5,
+          "y": 167.9296875
+        },
+        "cls": "cookie-button",
+        "disabled": true,
+        "name": "Испечь печенье"
+      },
+      {
+        "box": {
+          "bottom": 581,
+          "height": 581,
+          "left": 0,
+          "right": 965,
+          "top": 0,
+          "width": 965,
+          "x": 0,
+          "y": 0
+        },
+        "cls": "modal-backdrop-close panel-backdrop-close",
+        "disabled": false,
+        "name": "Закрыть"
+      },
+      {
+        "box": {
+          "bottom": 200,
+          "height": 46,
+          "left": 854.5,
+          "right": 900.5,
+          "top": 154,
+          "width": 46,
+          "x": 854.5,
+          "y": 154
+        },
+        "cls": "panel-header-close",
+        "disabled": false,
+        "name": "Закрыть"
+      },
+      {
+        "box": {
+          "bottom": 182.5,
+          "height": 43,
+          "left": 191.5,
+          "right": 871.5,
+          "top": 139.5,
+          "width": 680,
+          "x": 191.5,
+          "y": 139.5
+        },
+        "cls": "shop-ad-offer-watch",
+        "disabled": false,
+        "name": "Смотреть рекламу и получить 6 Авто-кликер"
+      },
+      {
+        "box": {
+          "bottom": 326.5,
+          "height": 44,
+          "left": 609.8671875,
+          "right": 880.5,
+          "top": 282.5,
+          "width": 270.6328125,
+          "x": 609.8671875,
+          "y": 282.5
+        },
+        "cls": "building-price",
+        "disabled": false,
+        "name": "Авто-кликер: 16.9"
+      },
+      {
+        "box": {
+          "bottom": 456.5,
+          "height": 44,
+          "left": 609.8671875,
+          "right": 880.5,
+          "top": 412.5,
+          "width": 270.6328125,
+          "x": 609.8671875,
+          "y": 412.5
+        },
+        "cls": "building-price",
+        "disabled": false,
+        "name": "Дедушка: 120"
+      },
+      {
+        "box": {
+          "bottom": 586.5,
+          "height": 44,
+          "left": 609.8671875,
+          "right": 880.5,
+          "top": 542.5,
+          "width": 270.6328125,
+          "x": 609.8671875,
+          "y": 542.5
+        },
+        "cls": "building-price",
+        "disabled": true,
+        "name": "Ферма: 1 270"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 84.45123291015625,
+          "left": 227.43093872070312,
+          "right": 354.1159362792969,
+          "top": 466.54876708984375,
+          "width": 126.68499755859376,
+          "x": 227.43093872070312,
+          "y": 466.54876708984375
+        },
+        "cls": "active",
+        "disabled": false,
+        "name": "Магазин"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 81.2109375,
+          "left": 357.6796875,
+          "right": 479.5,
+          "top": 469.7890625,
+          "width": 121.8203125,
+          "x": 357.6796875,
+          "y": 469.7890625
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Улучшения"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 81.203125,
+          "left": 485.5,
+          "right": 607.3125,
+          "top": 469.796875,
+          "width": 121.8125,
+          "x": 485.5,
+          "y": 469.796875
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Задания"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 81.2109375,
+          "left": 613.3125,
+          "right": 735.1328125,
+          "top": 469.7890625,
+          "width": 121.8203125,
+          "x": 613.3125,
+          "y": 469.7890625
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Рейтинг"
+      }
+    ]
+  },
+  {
+    "name": "shop_08",
+    "offset": {
+      "bottom": 613,
+      "height": 581,
+      "left": 0,
+      "right": 965,
+      "top": 32,
+      "width": 965,
+      "x": 0,
+      "y": 32
+    },
+    "buttons": [
+      {
+        "box": {
+          "bottom": 139,
+          "height": 48,
+          "left": 762.5,
+          "right": 810.5,
+          "top": 91,
+          "width": 48,
+          "x": 762.5,
+          "y": 91
+        },
+        "cls": "hud-settings-button",
+        "disabled": false,
+        "name": "Открыть настройки"
+      },
+      {
+        "box": {
+          "bottom": 447.9296875,
+          "height": 280,
+          "left": 342.5,
+          "right": 622.5,
+          "top": 167.9296875,
+          "width": 280,
+          "x": 342.5,
+          "y": 167.9296875
+        },
+        "cls": "cookie-button",
+        "disabled": true,
+        "name": "Испечь печенье"
+      },
+      {
+        "box": {
+          "bottom": 581,
+          "height": 581,
+          "left": 0,
+          "right": 965,
+          "top": 0,
+          "width": 965,
+          "x": 0,
+          "y": 0
+        },
+        "cls": "modal-backdrop-close panel-backdrop-close",
+        "disabled": false,
+        "name": "Закрыть"
+      },
+      {
+        "box": {
+          "bottom": 200,
+          "height": 46,
+          "left": 854.5,
+          "right": 900.5,
+          "top": 154,
+          "width": 46,
+          "x": 854.5,
+          "y": 154
+        },
+        "cls": "panel-header-close",
+        "disabled": false,
+        "name": "Закрыть"
+      },
+      {
+        "box": {
+          "bottom": 182.5,
+          "height": 43,
+          "left": 191.5,
+          "right": 871.5,
+          "top": 139.5,
+          "width": 680,
+          "x": 191.5,
+          "y": 139.5
+        },
+        "cls": "shop-ad-offer-watch",
+        "disabled": false,
+        "name": "Смотреть рекламу и получить 6 Авто-кликер"
+      },
+      {
+        "box": {
+          "bottom": 326.5,
+          "height": 44,
+          "left": 609.8671875,
+          "right": 880.5,
+          "top": 282.5,
+          "width": 270.6328125,
+          "x": 609.8671875,
+          "y": 282.5
+        },
+        "cls": "building-price",
+        "disabled": false,
+        "name": "Авто-кликер: 18.8"
+      },
+      {
+        "box": {
+          "bottom": 456.5,
+          "height": 44,
+          "left": 609.8671875,
+          "right": 880.5,
+          "top": 412.5,
+          "width": 270.6328125,
+          "x": 609.8671875,
+          "y": 412.5
+        },
+        "cls": "building-price",
+        "disabled": false,
+        "name": "Дедушка: 120"
+      },
+      {
+        "box": {
+          "bottom": 586.5,
+          "height": 44,
+          "left": 609.8671875,
+          "right": 880.5,
+          "top": 542.5,
+          "width": 270.6328125,
+          "x": 609.8671875,
+          "y": 542.5
+        },
+        "cls": "building-price",
+        "disabled": true,
+        "name": "Ферма: 1 270"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 84.45123291015625,
+          "left": 227.43093872070312,
+          "right": 354.1159362792969,
+          "top": 466.54876708984375,
+          "width": 126.68499755859376,
+          "x": 227.43093872070312,
+          "y": 466.54876708984375
+        },
+        "cls": "active",
+        "disabled": false,
+        "name": "Магазин"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 81.2109375,
+          "left": 357.6796875,
+          "right": 479.5,
+          "top": 469.7890625,
+          "width": 121.8203125,
+          "x": 357.6796875,
+          "y": 469.7890625
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Улучшения"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 81.203125,
+          "left": 485.5,
+          "right": 607.3125,
+          "top": 469.796875,
+          "width": 121.8125,
+          "x": 485.5,
+          "y": 469.796875
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Задания"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 81.2109375,
+          "left": 613.3125,
+          "right": 735.1328125,
+          "top": 469.7890625,
+          "width": 121.8203125,
+          "x": 613.3125,
+          "y": 469.7890625
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Рейтинг"
+      }
+    ]
+  },
+  {
+    "name": "game_07",
+    "offset": {
+      "bottom": 613,
+      "height": 581,
+      "left": 0,
+      "right": 965,
+      "top": 32,
+      "width": 965,
+      "x": 0,
+      "y": 32
+    },
+    "buttons": [
+      {
+        "box": {
+          "bottom": 139,
+          "height": 48,
+          "left": 762.5,
+          "right": 810.5,
+          "top": 91,
+          "width": 48,
+          "x": 762.5,
+          "y": 91
+        },
+        "cls": "hud-settings-button",
+        "disabled": false,
+        "name": "Открыть настройки"
+      },
+      {
+        "box": {
+          "bottom": 440.9296875,
+          "height": 280,
+          "left": 342.5,
+          "right": 622.5,
+          "top": 160.9296875,
+          "width": 280,
+          "x": 342.5,
+          "y": 160.9296875
+        },
+        "cls": "cookie-button",
+        "disabled": false,
+        "name": "Испечь печенье"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 81.203125,
+          "left": 229.8671875,
+          "right": 351.6796875,
+          "top": 469.796875,
+          "width": 121.8125,
+          "x": 229.8671875,
+          "y": 469.796875
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Магазин"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 81.2109375,
+          "left": 357.6796875,
+          "right": 479.5,
+          "top": 469.7890625,
+          "width": 121.8203125,
+          "x": 357.6796875,
+          "y": 469.7890625
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Улучшения"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 81.203125,
+          "left": 485.5,
+          "right": 607.3125,
+          "top": 469.796875,
+          "width": 121.8125,
+          "x": 485.5,
+          "y": 469.796875
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Задания"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 81.2109375,
+          "left": 613.3125,
+          "right": 735.1328125,
+          "top": 469.7890625,
+          "width": 121.8203125,
+          "x": 613.3125,
+          "y": 469.7890625
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Рейтинг"
+      }
+    ]
+  },
+  {
+    "name": "game_08",
+    "offset": {
+      "bottom": 613,
+      "height": 581,
+      "left": 0,
+      "right": 965,
+      "top": 32,
+      "width": 965,
+      "x": 0,
+      "y": 32
+    },
+    "buttons": [
+      {
+        "box": {
+          "bottom": 139,
+          "height": 48,
+          "left": 762.5,
+          "right": 810.5,
+          "top": 91,
+          "width": 48,
+          "x": 762.5,
+          "y": 91
+        },
+        "cls": "hud-settings-button",
+        "disabled": false,
+        "name": "Открыть настройки"
+      },
+      {
+        "box": {
+          "bottom": 440.9296875,
+          "height": 280,
+          "left": 342.5,
+          "right": 622.5,
+          "top": 160.9296875,
+          "width": 280,
+          "x": 342.5,
+          "y": 160.9296875
+        },
+        "cls": "cookie-button",
+        "disabled": false,
+        "name": "Испечь печенье"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 81.203125,
+          "left": 229.8671875,
+          "right": 351.6796875,
+          "top": 469.796875,
+          "width": 121.8125,
+          "x": 229.8671875,
+          "y": 469.796875
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Магазин"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 81.2109375,
+          "left": 357.6796875,
+          "right": 479.5,
+          "top": 469.7890625,
+          "width": 121.8203125,
+          "x": 357.6796875,
+          "y": 469.7890625
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Улучшения"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 81.203125,
+          "left": 485.5,
+          "right": 607.3125,
+          "top": 469.796875,
+          "width": 121.8125,
+          "x": 485.5,
+          "y": 469.796875
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Задания"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 81.2109375,
+          "left": 613.3125,
+          "right": 735.1328125,
+          "top": 469.7890625,
+          "width": 121.8203125,
+          "x": 613.3125,
+          "y": 469.7890625
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Рейтинг"
+      }
+    ]
+  },
+  {
+    "name": "game_09",
+    "offset": {
+      "bottom": 613,
+      "height": 581,
+      "left": 0,
+      "right": 965,
+      "top": 32,
+      "width": 965,
+      "x": 0,
+      "y": 32
+    },
+    "buttons": [
+      {
+        "box": {
+          "bottom": 139,
+          "height": 48,
+          "left": 762.5,
+          "right": 810.5,
+          "top": 91,
+          "width": 48,
+          "x": 762.5,
+          "y": 91
+        },
+        "cls": "hud-settings-button",
+        "disabled": false,
+        "name": "Открыть настройки"
+      },
+      {
+        "box": {
+          "bottom": 440.9296875,
+          "height": 280,
+          "left": 342.5,
+          "right": 622.5,
+          "top": 160.9296875,
+          "width": 280,
+          "x": 342.5,
+          "y": 160.9296875
+        },
+        "cls": "cookie-button",
+        "disabled": false,
+        "name": "Испечь печенье"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 81.203125,
+          "left": 229.8671875,
+          "right": 351.6796875,
+          "top": 469.796875,
+          "width": 121.8125,
+          "x": 229.8671875,
+          "y": 469.796875
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Магазин"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 81.2109375,
+          "left": 357.6796875,
+          "right": 479.5,
+          "top": 469.7890625,
+          "width": 121.8203125,
+          "x": 357.6796875,
+          "y": 469.7890625
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Улучшения"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 81.203125,
+          "left": 485.5,
+          "right": 607.3125,
+          "top": 469.796875,
+          "width": 121.8125,
+          "x": 485.5,
+          "y": 469.796875
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Задания"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 81.2109375,
+          "left": 613.3125,
+          "right": 735.1328125,
+          "top": 469.7890625,
+          "width": 121.8203125,
+          "x": 613.3125,
+          "y": 469.7890625
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Рейтинг"
+      }
+    ]
+  },
+  {
+    "name": "game_10",
+    "offset": {
+      "bottom": 613,
+      "height": 581,
+      "left": 0,
+      "right": 965,
+      "top": 32,
+      "width": 965,
+      "x": 0,
+      "y": 32
+    },
+    "buttons": [
+      {
+        "box": {
+          "bottom": 139,
+          "height": 48,
+          "left": 762.5,
+          "right": 810.5,
+          "top": 91,
+          "width": 48,
+          "x": 762.5,
+          "y": 91
+        },
+        "cls": "hud-settings-button",
+        "disabled": false,
+        "name": "Открыть настройки"
+      },
+      {
+        "box": {
+          "bottom": 440.9296875,
+          "height": 280,
+          "left": 342.5,
+          "right": 622.5,
+          "top": 160.9296875,
+          "width": 280,
+          "x": 342.5,
+          "y": 160.9296875
+        },
+        "cls": "cookie-button",
+        "disabled": false,
+        "name": "Испечь печенье"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 81.203125,
+          "left": 229.8671875,
+          "right": 351.6796875,
+          "top": 469.796875,
+          "width": 121.8125,
+          "x": 229.8671875,
+          "y": 469.796875
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Магазин"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 81.2109375,
+          "left": 357.6796875,
+          "right": 479.5,
+          "top": 469.7890625,
+          "width": 121.8203125,
+          "x": 357.6796875,
+          "y": 469.7890625
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Улучшения"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 81.203125,
+          "left": 485.5,
+          "right": 607.3125,
+          "top": 469.796875,
+          "width": 121.8125,
+          "x": 485.5,
+          "y": 469.796875
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Задания"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 81.2109375,
+          "left": 613.3125,
+          "right": 735.1328125,
+          "top": 469.7890625,
+          "width": 121.8203125,
+          "x": 613.3125,
+          "y": 469.7890625
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Рейтинг"
+      }
+    ]
+  },
+  {
+    "name": "game_11",
+    "offset": {
+      "bottom": 613,
+      "height": 581,
+      "left": 0,
+      "right": 965,
+      "top": 32,
+      "width": 965,
+      "x": 0,
+      "y": 32
+    },
+    "buttons": [
+      {
+        "box": {
+          "bottom": 139,
+          "height": 48,
+          "left": 762.5,
+          "right": 810.5,
+          "top": 91,
+          "width": 48,
+          "x": 762.5,
+          "y": 91
+        },
+        "cls": "hud-settings-button",
+        "disabled": false,
+        "name": "Открыть настройки"
+      },
+      {
+        "box": {
+          "bottom": 440.9296875,
+          "height": 280,
+          "left": 342.5,
+          "right": 622.5,
+          "top": 160.9296875,
+          "width": 280,
+          "x": 342.5,
+          "y": 160.9296875
+        },
+        "cls": "cookie-button",
+        "disabled": false,
+        "name": "Испечь печенье"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 81.203125,
+          "left": 229.8671875,
+          "right": 351.6796875,
+          "top": 469.796875,
+          "width": 121.8125,
+          "x": 229.8671875,
+          "y": 469.796875
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Магазин"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 81.2109375,
+          "left": 357.6796875,
+          "right": 479.5,
+          "top": 469.7890625,
+          "width": 121.8203125,
+          "x": 357.6796875,
+          "y": 469.7890625
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Улучшения"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 81.203125,
+          "left": 485.5,
+          "right": 607.3125,
+          "top": 469.796875,
+          "width": 121.8125,
+          "x": 485.5,
+          "y": 469.796875
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Задания"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 81.2109375,
+          "left": 613.3125,
+          "right": 735.1328125,
+          "top": 469.7890625,
+          "width": 121.8203125,
+          "x": 613.3125,
+          "y": 469.7890625
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Рейтинг"
+      }
+    ]
+  },
+  {
+    "name": "game_12",
+    "offset": {
+      "bottom": 613,
+      "height": 581,
+      "left": 0,
+      "right": 965,
+      "top": 32,
+      "width": 965,
+      "x": 0,
+      "y": 32
+    },
+    "buttons": [
+      {
+        "box": {
+          "bottom": 139,
+          "height": 48,
+          "left": 762.5,
+          "right": 810.5,
+          "top": 91,
+          "width": 48,
+          "x": 762.5,
+          "y": 91
+        },
+        "cls": "hud-settings-button",
+        "disabled": false,
+        "name": "Открыть настройки"
+      },
+      {
+        "box": {
+          "bottom": 440.9296875,
+          "height": 280,
+          "left": 342.5,
+          "right": 622.5,
+          "top": 160.9296875,
+          "width": 280,
+          "x": 342.5,
+          "y": 160.9296875
+        },
+        "cls": "cookie-button",
+        "disabled": false,
+        "name": "Испечь печенье"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 81.203125,
+          "left": 229.8671875,
+          "right": 351.6796875,
+          "top": 469.796875,
+          "width": 121.8125,
+          "x": 229.8671875,
+          "y": 469.796875
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Магазин"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 81.2109375,
+          "left": 357.6796875,
+          "right": 479.5,
+          "top": 469.7890625,
+          "width": 121.8203125,
+          "x": 357.6796875,
+          "y": 469.7890625
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Улучшения"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 81.203125,
+          "left": 485.5,
+          "right": 607.3125,
+          "top": 469.796875,
+          "width": 121.8125,
+          "x": 485.5,
+          "y": 469.796875
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Задания"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 81.2109375,
+          "left": 613.3125,
+          "right": 735.1328125,
+          "top": 469.7890625,
+          "width": 121.8203125,
+          "x": 613.3125,
+          "y": 469.7890625
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Рейтинг"
+      }
+    ]
+  },
+  {
+    "name": "game_13",
+    "offset": {
+      "bottom": 613,
+      "height": 581,
+      "left": 0,
+      "right": 965,
+      "top": 32,
+      "width": 965,
+      "x": 0,
+      "y": 32
+    },
+    "buttons": [
+      {
+        "box": {
+          "bottom": 139,
+          "height": 48,
+          "left": 762.5,
+          "right": 810.5,
+          "top": 91,
+          "width": 48,
+          "x": 762.5,
+          "y": 91
+        },
+        "cls": "hud-settings-button",
+        "disabled": false,
+        "name": "Открыть настройки"
+      },
+      {
+        "box": {
+          "bottom": 440.9296875,
+          "height": 280,
+          "left": 342.5,
+          "right": 622.5,
+          "top": 160.9296875,
+          "width": 280,
+          "x": 342.5,
+          "y": 160.9296875
+        },
+        "cls": "cookie-button",
+        "disabled": false,
+        "name": "Испечь печенье"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 81.203125,
+          "left": 229.8671875,
+          "right": 351.6796875,
+          "top": 469.796875,
+          "width": 121.8125,
+          "x": 229.8671875,
+          "y": 469.796875
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Магазин"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 81.2109375,
+          "left": 357.6796875,
+          "right": 479.5,
+          "top": 469.7890625,
+          "width": 121.8203125,
+          "x": 357.6796875,
+          "y": 469.7890625
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Улучшения"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 81.203125,
+          "left": 485.5,
+          "right": 607.3125,
+          "top": 469.796875,
+          "width": 121.8125,
+          "x": 485.5,
+          "y": 469.796875
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Задания"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 81.2109375,
+          "left": 613.3125,
+          "right": 735.1328125,
+          "top": 469.7890625,
+          "width": 121.8203125,
+          "x": 613.3125,
+          "y": 469.7890625
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Рейтинг"
+      }
+    ]
+  },
+  {
+    "name": "bonus_04",
+    "offset": {
+      "bottom": 613,
+      "height": 581,
+      "left": 0,
+      "right": 965,
+      "top": 32,
+      "width": 965,
+      "x": 0,
+      "y": 32
+    },
+    "buttons": [
+      {
+        "box": {
+          "bottom": 139,
+          "height": 48,
+          "left": 762.5,
+          "right": 810.5,
+          "top": 91,
+          "width": 48,
+          "x": 762.5,
+          "y": 91
+        },
+        "cls": "hud-settings-button",
+        "disabled": false,
+        "name": "Открыть настройки"
+      },
+      {
+        "box": {
+          "bottom": 440.9296875,
+          "height": 280,
+          "left": 342.5,
+          "right": 622.5,
+          "top": 160.9296875,
+          "width": 280,
+          "x": 342.5,
+          "y": 160.9296875
+        },
+        "cls": "cookie-button",
+        "disabled": false,
+        "name": "Испечь печенье"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 81.203125,
+          "left": 229.8671875,
+          "right": 351.6796875,
+          "top": 469.796875,
+          "width": 121.8125,
+          "x": 229.8671875,
+          "y": 469.796875
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Магазин"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 81.2109375,
+          "left": 357.6796875,
+          "right": 479.5,
+          "top": 469.7890625,
+          "width": 121.8203125,
+          "x": 357.6796875,
+          "y": 469.7890625
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Улучшения"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 81.203125,
+          "left": 485.5,
+          "right": 607.3125,
+          "top": 469.796875,
+          "width": 121.8125,
+          "x": 485.5,
+          "y": 469.796875
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Задания"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 81.2109375,
+          "left": 613.3125,
+          "right": 735.1328125,
+          "top": 469.7890625,
+          "width": 121.8203125,
+          "x": 613.3125,
+          "y": 469.7890625
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Рейтинг"
+      },
+      {
+        "box": {
+          "bottom": 12.015716552734377,
+          "height": 96,
+          "left": 170.15737915039062,
+          "right": 266.1573791503906,
+          "top": -83.98428344726562,
+          "width": 96,
+          "x": 170.15737915039062,
+          "y": -83.98428344726562
+        },
+        "cls": "falling-object gem",
+        "disabled": false,
+        "name": "Собрать алмаз"
+      }
+    ]
+  },
+  {
+    "name": "bonus_05",
+    "offset": {
+      "bottom": 613,
+      "height": 581,
+      "left": 0,
+      "right": 965,
+      "top": 32,
+      "width": 965,
+      "x": 0,
+      "y": 32
+    },
+    "buttons": [
+      {
+        "box": {
+          "bottom": 139,
+          "height": 48,
+          "left": 762.5,
+          "right": 810.5,
+          "top": 91,
+          "width": 48,
+          "x": 762.5,
+          "y": 91
+        },
+        "cls": "hud-settings-button",
+        "disabled": false,
+        "name": "Открыть настройки"
+      },
+      {
+        "box": {
+          "bottom": 440.9296875,
+          "height": 280,
+          "left": 342.5,
+          "right": 622.5,
+          "top": 160.9296875,
+          "width": 280,
+          "x": 342.5,
+          "y": 160.9296875
+        },
+        "cls": "cookie-button",
+        "disabled": false,
+        "name": "Испечь печенье"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 81.203125,
+          "left": 229.8671875,
+          "right": 351.6796875,
+          "top": 469.796875,
+          "width": 121.8125,
+          "x": 229.8671875,
+          "y": 469.796875
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Магазин"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 81.2109375,
+          "left": 357.6796875,
+          "right": 479.5,
+          "top": 469.7890625,
+          "width": 121.8203125,
+          "x": 357.6796875,
+          "y": 469.7890625
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Улучшения"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 81.203125,
+          "left": 485.5,
+          "right": 607.3125,
+          "top": 469.796875,
+          "width": 121.8125,
+          "x": 485.5,
+          "y": 469.796875
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Задания"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 81.2109375,
+          "left": 613.3125,
+          "right": 735.1328125,
+          "top": 469.7890625,
+          "width": 121.8203125,
+          "x": 613.3125,
+          "y": 469.7890625
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Рейтинг"
+      },
+      {
+        "box": {
+          "bottom": 62.81172180175781,
+          "height": 96,
+          "left": 168.78662109375,
+          "right": 264.78662109375,
+          "top": -33.18827819824219,
+          "width": 96,
+          "x": 168.78662109375,
+          "y": -33.18827819824219
+        },
+        "cls": "falling-object gem",
+        "disabled": false,
+        "name": "Собрать алмаз"
+      }
+    ]
+  },
+  {
+    "name": "bonus_06",
+    "offset": {
+      "bottom": 613,
+      "height": 581,
+      "left": 0,
+      "right": 965,
+      "top": 32,
+      "width": 965,
+      "x": 0,
+      "y": 32
+    },
+    "buttons": [
+      {
+        "box": {
+          "bottom": 139,
+          "height": 48,
+          "left": 762.5,
+          "right": 810.5,
+          "top": 91,
+          "width": 48,
+          "x": 762.5,
+          "y": 91
+        },
+        "cls": "hud-settings-button",
+        "disabled": false,
+        "name": "Открыть настройки"
+      },
+      {
+        "box": {
+          "bottom": 440.9296875,
+          "height": 280,
+          "left": 342.5,
+          "right": 622.5,
+          "top": 160.9296875,
+          "width": 280,
+          "x": 342.5,
+          "y": 160.9296875
+        },
+        "cls": "cookie-button",
+        "disabled": false,
+        "name": "Испечь печенье"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 81.203125,
+          "left": 229.8671875,
+          "right": 351.6796875,
+          "top": 469.796875,
+          "width": 121.8125,
+          "x": 229.8671875,
+          "y": 469.796875
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Магазин"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 81.2109375,
+          "left": 357.6796875,
+          "right": 479.5,
+          "top": 469.7890625,
+          "width": 121.8203125,
+          "x": 357.6796875,
+          "y": 469.7890625
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Улучшения"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 81.203125,
+          "left": 485.5,
+          "right": 607.3125,
+          "top": 469.796875,
+          "width": 121.8125,
+          "x": 485.5,
+          "y": 469.796875
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Задания"
+      },
+      {
+        "box": {
+          "bottom": 551,
+          "height": 81.2109375,
+          "left": 613.3125,
+          "right": 735.1328125,
+          "top": 469.7890625,
+          "width": 121.8203125,
+          "x": 613.3125,
+          "y": 469.7890625
+        },
+        "cls": "",
+        "disabled": false,
+        "name": "Рейтинг"
+      },
+      {
+        "box": {
+          "bottom": 89.9917221069336,
+          "height": 96,
+          "left": 168.05316162109375,
+          "right": 264.05316162109375,
+          "top": -6.008277893066406,
+          "width": 96,
+          "x": 168.05316162109375,
+          "y": -6.008277893066406
+        },
+        "cls": "falling-object gem",
+        "disabled": false,
+        "name": "Собрать алмаз"
+      }
+    ]
+  }
+]

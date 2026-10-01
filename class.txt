@@ -1,0 +1,5 @@
+game
+upgrade
+bonus
+close
+shop

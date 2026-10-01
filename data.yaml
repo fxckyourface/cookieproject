@@ -1,0 +1,9 @@
+path: dataset
+train: images/train
+val: images/val
+names:
+  0: game
+  1: upgrade
+  2: bonus
+  3: close
+  4: shop
